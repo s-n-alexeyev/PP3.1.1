@@ -1,6 +1,5 @@
 package itm.pp3_1_1.model;
 
-
 import javax.persistence.*;
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;

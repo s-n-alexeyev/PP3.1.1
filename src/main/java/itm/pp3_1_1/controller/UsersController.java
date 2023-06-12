@@ -1,13 +1,11 @@
 package itm.pp3_1_1.controller;
 
-
 import itm.pp3_1_1.model.User;
 import itm.pp3_1_1.service.UserService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
-
 import javax.validation.Valid;
 
 
